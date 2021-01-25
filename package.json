@@ -1,0 +1,22 @@
+{
+  "name": "applab",
+  "version": "1.0.0",
+  "description": "Applab api support (kind of)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonster5/applab.git"
+  },
+  "keywords": [
+    "applab"
+  ],
+  "author": "Coin Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonster5/applab/issues"
+  },
+  "homepage": "https://github.com/Jonster5/applab#readme"
+}
